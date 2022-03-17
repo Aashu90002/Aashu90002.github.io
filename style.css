@@ -10,7 +10,7 @@
     background-size: cover;
     background-position: fixed;
     height: 500vh;
-    background-repeat:repeat-y;
+    background-repeat:repeat;
 }
 
 .navbar{
